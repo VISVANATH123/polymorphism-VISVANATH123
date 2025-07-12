@@ -18,4 +18,5 @@ public class Main {
         System.out.println(p.product(7,7,8));
         System.out.println(p.product(9.00,8.76));
     }
+    //completed
 }
