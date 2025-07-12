@@ -11,7 +11,7 @@ public class Main {
         public double product(double x,double y) {
             return x * y;
         }
-    }
+    }//
     public static void main(String args[]){
         product p=new product();
         System.out.println(p.product(5,4));
