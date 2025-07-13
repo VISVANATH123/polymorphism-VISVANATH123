@@ -10,12 +10,10 @@ public class Main {
             return x * y;
         }
 
-        // Task 4: Overloaded method with 3 int parameters
         public int product(int x, int y, int z) {
             return x * y * z;
         }
 
-        // Task 5: Overloaded method with 2 double parameters
         public double product(double x, double y) {
             return x * y;
         }
